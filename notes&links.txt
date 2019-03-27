@@ -1,0 +1,16 @@
+Relative positioning systems
+
+Inertial navigation > accelerometer > double integral problem
+
+Kalman Filter, GPS tracking and relative position based on kinematic model
+
+Pedometer algorithms, stride length * steps taken from known point
+
+links:
+sensor fusion talk: https://youtu.be/C7JQ7Rpwn2k
+
+kalman tracking in 2d image: https://youtu.be/GBYW1j9lC1I
+
+indoor location thesis: https://www.cl.cam.ac.uk/research/dtg/www/files/publications/public/abr28/ojw28_thesis.pdf
+
+accelerometer positioning algorithm thesis: https://www.nxp.com/docs/en/application-note/AN3397.pdf
