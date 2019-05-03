@@ -3,7 +3,7 @@ import gps
 import subprocess
 
 wia = Wia()
-wia.access_token = "access_token"
+wia.access_token = "d_sk_gn5TeaB2RZNb5DFR83e7XiXr"
 
 # Listen on port 2947 (gpsd) of localhost
 session = gps.gps("localhost", "2947")
